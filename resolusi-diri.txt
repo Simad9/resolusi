@@ -1,10 +1,18 @@
 Resolusi 2023 :
-- Menamatkan alur belajar CSS sampe javascript
-- Membuat kebiasan baru 21 hari belajar bahasa inggris biar belajar terus
-- Membuat kebiasan baru, membaca buku 30 menit/1 bab perharinya
-- Membuat kebiasan baru belajar setiap harinya, sinkron sama poin nomer 2
-- Gemukin badan -> dengan cara mencari kalori banyak (makan gorengan. makan sebelum tidur, makan 4 kali sehari dll)
+
++ Improve kebiasaan +
+- Membuat kebiasan baru 21 hari belajar "BAHASA INGGRIS" biar belajar terus
+- Membuat kebiasan baru, "MEMBACA BUKU" 30 menit/1 bab perharinya
+- Membuat kebiasan baru "BELAJAR" setiap harinya, sinkron sama poin nomer 2
+
++ Harapan +
 - Mencari seminar offline
 - Mencari ilmu dari luar
 - Mencoba lomba coding, design, yang aku bisa
+
++ Ada hasil +
+- Menamatkan alur belajar CSS sampe javascript -> Bikin web pribadi
+- Gemukin badan -> dengan cara mencari kalori banyak (makan gorengan. makan sebelum tidur, makan 4 kali sehari dll)
 - Mau bikin design web sendiri untuk naruh apapun di situ
+
+
